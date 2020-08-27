@@ -1,11 +1,12 @@
 # Sudoku-solver
-##how to use
+## how to use
 ` pip install opencv
-\n
+<br>
 `pip install numpy
-\n
-\n``install tensorflow``
-\n`pip install matplotlib
+<br>
+<br>``install tensorflow``
+<br>`pip install matplotlib
  then run
+ <br>
  `python main.py
  
